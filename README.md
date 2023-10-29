@@ -1,3 +1,3 @@
 # Simulation
-Simulation of a beauty center  
+Simulation of a Beauty Center  
 Simul8
